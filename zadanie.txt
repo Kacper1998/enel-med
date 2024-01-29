@@ -1,0 +1,28 @@
+Dzień dobry,
+dziękujemy za wzięcie udziału w naszej rekrutacji. 
+
+Ze względu na duże zainteresowanie naszą ofertą, chcielibyśmy zweryfikować umiejętności techniczne naszych kandydatów przed przystąpieniem do rozmów rekrutacyjnych.
+Z przyjemnością informujemy, że został Pan wybrany, spośród wielu kandydatów, do drugiego etapu rekrutacji.
+
+Celem przejścia do ostatniego etapu rekrutacji, wymagane jest wykonanie poniższego zadania.
+
+W załączonym pliku zadanie.png znajduje się zrzut ekranu przykładowej strony.
+Zadanie polega na odtworzeniu przedstawionej w załączniku strony, w formie pliku HTML.
+
+Co podlega ocenie:
+- Stopień odwzorowania strony z załącznika
+- Metoda wykonania
+- Responsywność
+- Czytelność kodu
+
+Dodatkowe informacje:
+- Podstrona musi zostać wykonana z użyciem frameworka Tailwind CSS
+- Grafiki na podstronie mogą być dowolne (należy odwzorować ich układ, nie treść)
+- Jeżeli nie ma Pan czasu na przygotowanie całej podstrony, proszę przesłać rezultat, który udało się osiągnąć - rozumiemy, że nie każdy ma wystarczająco dużo czasu wolnego
+- Prosimy nie minifikować kodu strony
+- Główny plik strony powinien nazywać się index.html 
+- Strona powinna być "gotowa do wdrożenia" (otwarcie pliku index.html powinno załadować całą stronę - bez instalowania bibliotek, dodatkowych komend, procedur itp.)
+- Praca powinna być autorska :)
+- Nieokreślone w niniejszej instrukcji kwestie, mogą być wykonane w sposób dowolny
+
+Gotową stronę proszę spakować w plik .zip i przesłać w odpowiedzi na tego maila.
